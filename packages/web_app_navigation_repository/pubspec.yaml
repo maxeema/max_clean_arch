@@ -1,0 +1,24 @@
+name: web_app_navigation_repository
+description: Web app navigation repository
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: '>=2.16.1'
+
+dependencies:
+  dartz: any
+  http: any
+  retrofit: any
+  dio: any
+  freezed_annotation: any
+  navigation_repository:
+    path: ../navigation_repository
+
+dev_dependencies:
+  freezed: any
+  json_serializable: any
+  retrofit_generator: any
+  build_runner: any
+  test: any
+  mocktail: any

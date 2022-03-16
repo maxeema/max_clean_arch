@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "id": "kcmUHQWxE5",
+      "title": "Space Shuttle",
+      "itemId": "7J3QKeGgUB"
+    },
+    {
+      "id": "uOcHNRI9dO",
+      "title": "Starship",
+      "itemId": "7E3H0t7U1b"
+    }
+  ],
+  "items": [
+    {
+      "id": "7J3QKeGgUB",
+      "title": "Space Shuttle",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/STS120LaunchHiRes-edit1.jpg/1380px-STS120LaunchHiRes-edit1.jpg",
+      "body": "*This article is about a spacecraft system used by NASA. For space shuttles in general, see [spacecraft](openitem:QDZVNohbXR) and [spaceplane](openitem:czK3rMcHgN). For the spaceplane component of the Space Shuttle, see Space Shuttle orbiter.*\n\nThe **Space Shuttle** was a partially reusable low Earth orbital spacecraft system operated from 1981 to 2011 by the National Aeronautics and Space Administration (NASA) as part of the Space Shuttle program. Its official program name was Space Transportation System (STS), taken from a 1969 plan for a system of reusable spacecraft where it was the only item funded for development. The first of four orbital test flights occurred in 1981, leading to operational flights beginning in 1982. Five complete Space Shuttle orbiter vehicles were built and flown on a total of 135 missions from 1981 to 2011, launched from the Kennedy Space Center (KSC) in Florida. Operational missions launched numerous satellites, interplanetary probes, and the Hubble Space Telescope (HST); conducted science experiments in orbit; participated in the Shuttle-Mir program with Russia; and participated in construction and servicing of the International Space Station (ISS). The Space Shuttle fleet's total mission time was 1,322 days, 19 hours, 21 minutes and 23 seconds.",
+      "source": "Remixed excerpt from https://en.wikipedia.org/wiki/Space_Shuttle licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)."
+    },
+    {
+      "id": "QDZVNohbXR",
+      "title": "Spacecraft",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Soyuz_TMA-7_spacecraft2edit1.jpg/550px-Soyuz_TMA-7_spacecraft2edit1.jpg",
+      "body": "A spacecraft is a vehicle or machine designed to fly in outer space. A type of artificial satellite, spacecraft are used for a variety of purposes, including communications, Earth observation, meteorology, navigation, space colonization, planetary exploration, and transportation of humans and cargo. All spacecraft except single-stage-to-orbit vehicles cannot get into space on their own, and require a launch vehicle (carrier rocket).",
+      "source": "Remixed excerpt from https://en.wikipedia.org/wiki/Spacecraft licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)."
+    },
+    {
+      "id": "czK3rMcHgN",
+      "title": "Spaceplane",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Thermal_protection_system_inspections_from_ISS_-_Shuttle_nose.jpg/600px-Thermal_protection_system_inspections_from_ISS_-_Shuttle_nose.jpg",
+      "body": "A spaceplane is a vehicle that can fly/glide like an aircraft in Earth's atmosphere and maneuver like a spacecraft in outer space. To do so, spaceplanes must incorporate features of both aircraft and spacecraft. Orbital spaceplanes tend to be more similar to conventional spacecraft, while sub-orbital spaceplanes tend to be more similar to fixed-wing aircraft. All spaceplanes to date have been rocket-powered but then landed as unpowered gliders.",
+      "source": "Remixed excerpt from https://en.wikipedia.org/wiki/Spaceplane licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)."
+    },
+    {
+      "id": "NXt2FeASjk",
+      "title": "Low Earth orbit",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Comparison_satellite_navigation_orbits.svg/500px-Comparison_satellite_navigation_orbits.svg.png",
+      "body": "A **low Earth orbit** (**LEO**) is an Earth-centred orbit with an altitude of 2,000 km (1,200 mi) or less (approximately one-third of the radius of Earth), or with at least 11.25 periods per day (an orbital period of 128 minutes or less) and an eccentricity less than 0.25. Most of the artificial objects in outer space are in LEO.\n\nThere is a large variety of other sources that define LEO in terms of altitude. The altitude of an object in an elliptic orbit can vary significantly along the orbit. Even for circular orbits, the altitude above ground can vary by as much as 30 km (19 mi) (especially for polar orbits) due to the oblateness of Earth's spheroid figure and local topography. While definitions based on altitude are inherently ambiguous, most of them fall within the range specified by an orbit period of 128 minutes because, according to Kepler's third law, this corresponds to a semi-major axis of 8,413 km (5,228 mi). For circular orbits, this in turn corresponds to an altitude of 2,042 km (1,269 mi) above the mean radius of Earth, which is consistent with some of the upper altitude limits in some LEO definitions.",
+      "source": "Remixed excerpt from https://en.wikipedia.org/wiki/Low_Earth_orbit licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)."
+    },
+    {
+      "id": "7E3H0t7U1b",
+      "title": "SpaceX Starship",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/BFR_at_stage_separation_2-2018.jpg/1920px-BFR_at_stage_separation_2-2018.jpg",
+      "body": "The **SpaceX Starship** system is a proposed fully reusable, two-stage-to-orbit super heavy-lift launch vehicle under development by SpaceX. The system is composed of a booster stage, named Super Heavy, and a second stage, also referred to as \"Starship\". The second stage is being designed as a long-duration [cargo](openitem:DVq3j4IpBO), and eventually, passenger-carrying spacecraft. The spacecraft will serve as both the second stage and the in-space long-duration orbital spaceship.",
+      "source": "Remixed excerpt from https://en.wikipedia.org/wiki/SpaceX_Starship licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)."
+    },
+    {
+      "id": "DVq3j4IpBO",
+      "title": "Cargo spacecraft",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Progress-HTV-Dragon-ATV_Cyngus_Cygnus-extended_Collage.jpg/599px-Progress-HTV-Dragon-ATV_Cyngus_Cygnus-extended_Collage.jpg",
+      "body": "**Cargo spacecraft** are [robotic spacecraft](openitem:fb1ncQOXqr) that are designed to carry cargo, possibly to support space stations' operation by transporting food, propellant and other supplies. This is different from space probes, whose missions are to conduct scientific investigations.\n\nAutomated cargo spacecraft have been used since 1978 and have serviced Salyut 6, Salyut 7, Mir, the International Space Station and Tiangong space laboratory.",
+      "source": "Remixed excerpt from https://en.wikipedia.org/wiki/Cargo_spacecraft licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)."
+    },
+    {
+      "id": "fb1ncQOXqr",
+      "title": "Robotic spacecraft",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Messenger.jpg/500px-Messenger.jpg",
+      "body": "A **robotic spacecraft** is an [uncrewed spacecraft](openitem:EEudyRMBR7), usually under telerobotic control. A robotic spacecraft designed to make scientific research measurements is often called a space probe. Many space missions are more suited to telerobotic rather than crewed operation, due to lower cost and lower risk factors. In addition, some planetary destinations such as Venus or the vicinity of Jupiter are too hostile for human survival, given current technology. Outer planets such as Saturn, Uranus, and Neptune are too distant to reach with current crewed spacecraft technology, so telerobotic probes are the only way to explore them.",
+      "source": "Remixed excerpt from https://en.wikipedia.org/wiki/Robotic_spacecraft licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)."
+    },
+    {
+      "id": "EEudyRMBR7",
+      "title": "Uncrewed spacecraft",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/View_of_ATV-2_-_cropped_and_rotated.jpg/1433px-View_of_ATV-2_-_cropped_and_rotated.jpg",
+      "body": "**Uncrewed spacecraft** or **unmanned spacecraft** are [spacecraft](openitem:QDZVNohbXR) without people on board, used for robotic spaceflight. Uncrewed spacecraft may have varying levels of autonomy from human input; they may be remote controlled, remote guided or even autonomous, meaning they have a pre-programmed list of operations, which they will execute unless otherwise instructed.",
+      "source": "Remixed excerpt from https://en.wikipedia.org/wiki/Uncrewed_spacecraft licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)."
+    }
+  ]
+}

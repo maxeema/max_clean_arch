@@ -1,0 +1,3 @@
+library expanded_animated_switcher_child_layout;
+
+export 'src/expanded_animated_switcher_child_layout.dart';

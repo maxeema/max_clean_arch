@@ -1,0 +1,8 @@
+{
+  "appTitle": "Max Clean Arch",
+  "failedLoadingContent": "Failed to load '{id}' content",
+  "defaultContentId": "default",
+  "retryButton": "Retry",
+  "enterId": "Id (eg. music, computers)",
+  "@@locale": "en"
+}

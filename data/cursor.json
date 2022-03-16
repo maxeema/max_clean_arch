@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "id": "kcmUHQWx12",
+      "title": "Cursors",
+      "itemId": "7J3QKeGgAB"
+    }
+  ],
+  "items": [
+    {
+      "id": "7J3QKeGgAB",
+      "title": "Cursor",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Text_cursor_blinking.gif",
+      "body": "In computer [user interfaces](https://en.wikipedia.org/wiki/User_interface), a **cursor** is an indicator used to show the current position for [user interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) on a [computer monitor](openitem:QDZVNohdRe) or other display device that will respond to input from a text input or pointing device.",
+      "source": "Remixed excerpt from https://en.wikipedia.org/wiki/Cursor_(user_interface) licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)."
+    },
+    {
+      "id": "QDZVNohdRe",
+      "title": "Computer monitor",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Computer_monitor.jpg/800px-Computer_monitor.jpg",
+      "body": "A **computer monitor** is an output device that displays information in pictorial form.",
+      "source": "Remixed excerpt from https://en.wikipedia.org/wiki/Computer_monitor licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)."
+    }
+  ]
+}

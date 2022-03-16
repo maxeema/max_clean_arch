@@ -1,0 +1,20 @@
+name: navigation_repository
+description: Navigation repository
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: '>=2.16.1'
+
+dependencies:
+  dartz: any
+  kt_dart: any
+  equatable: any
+  freezed_annotation: any
+
+dev_dependencies:
+  freezed: any
+  build_runner: any
+  json_serializable: any
+  test: any
+

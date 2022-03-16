@@ -1,0 +1,15 @@
+name: in_memory_navigation_repository
+description: In-memory navigation repository
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: '>=2.16.1'
+
+dependencies:
+  dartz: any
+  navigation_repository:
+    path: ../navigation_repository
+
+dev_dependencies:
+  test: any

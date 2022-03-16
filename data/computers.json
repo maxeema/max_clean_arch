@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "id": "vKyx9eY76b",
+      "title": "Computers",
+      "itemId": "n56zmSSnLy"
+    }
+  ],
+  "items": [
+    {
+      "id": "n56zmSSnLy",
+      "title": "Computer",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ENIAC-changing_a_tube.jpg/135px-ENIAC-changing_a_tube.jpg",
+      "body": "A **computer** is a [machine](openitem:yWucUr1nxs) that can be programmed to carry out sequences of arithmetic or logical operations automatically.",
+      "source": "Remixed excerpt from https://en.wikipedia.org/wiki/Computer licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)."
+    },
+    {
+      "id": "yWucUr1nxs",
+      "title": "Machine",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Honda_RA168E_engine_rear_Honda_Collection_Hall.jpg/220px-Honda_RA168E_engine_rear_Honda_Collection_Hall.jpg",
+      "body": "A machine is a man-made device that uses power to apply forces and control movement to perform an action. They can also include [computers](openitem:n56zmSSnLy) and sensors that monitor performance and plan movement, often called mechanical systems. ",
+      "source": "Remixed excerpt from https://en.wikipedia.org/wiki/Machine licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)."
+    }
+  ]
+}
