@@ -5,10 +5,9 @@ Clean Architecture + BLoC + RxDart + Injectable (Flutter app proposal)
 
 The app allows navigating through the content fetched from an API endpoint.
 The content is composed by multiple articles related to a common topic
-(e.g., music, spacecraft, computers, etc.).<br/><br/>
-The apps starts with dummy data. After, the app is possible
-to feed different data sets into the app entering ID to fetch the content from a service API
-using FAB (in the bottom right corner).
+(e.g., music, space, computers, etc.).<br/><br/>
+The apps starts with dummy data. After, it is possible to feed new data sets into the app
+by entering ID to fetch the content from a service API using FAB (in the bottom right corner).
 
 <img src="screens/max_clean_arch_1.png" width="400"/>
 
