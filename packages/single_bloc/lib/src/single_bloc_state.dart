@@ -6,9 +6,9 @@ class SingleBlocState<A, E, D> extends Equatable {
     D? initialData,
     SingleBlocErrorInfo<A, E>? initialError,
   ]) {
-    status.._subject.value = initialStatus;
-    if (initialData != null) data.._subject.value = initialData;
-    if (initialError != null) error.._subject.value = initialError;
+    status._subject.value = initialStatus;
+    if (initialData != null) data._subject.value = initialData;
+    if (initialError != null) error._subject.value = initialError;
   }
 
   late final status = SingleBlocStateItem<SingleBlocStatus>();
@@ -24,9 +24,9 @@ class SingleBlocState<A, E, D> extends Equatable {
     SingleBlocErrorInfo<A, E> Function()? newError,
   }) {
     return SingleBlocState(
-      newStatus?.call() ?? this.status.value!,
-      newData == null ? this.data.value : newData.call(),
-      newError == null ? this.error.value : newError.call(),
+      newStatus?.call() ?? status.value!,
+      newData == null ? data.value : newData.call(),
+      newError == null ? error.value : newError.call(),
     );
   }
 }
