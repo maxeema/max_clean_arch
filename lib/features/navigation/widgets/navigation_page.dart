@@ -40,6 +40,8 @@ class _NavigationPageState extends State<NavigationPage> {
           final queryId = state.error.value!.args.id;
           _showLoadError(queryId);
           widget.bloc.resetError();
+        } else {
+          _hideLoadError();
         }
       });
       return subscription.cancel;
@@ -135,6 +137,9 @@ class _NavigationPageState extends State<NavigationPage> {
     );
   }
 
+  void _hideLoadError() {
+    ScaffoldMessenger.of(context).removeCurrentSnackBar();
+  }
   void _showLoadError(String? queryId) {
     ScaffoldMessenger.of(context)
       ..removeCurrentSnackBar()
