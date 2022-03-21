@@ -17,12 +17,8 @@ by entering ID to fetch the content from a service API using FAB (in the bottom 
 
 <img src="screens/max_clean_arch_4.png" width="400"/> <br/>
 
-**TODO**
-- complete with tests <br/>
-- add logging library to trace calls of services, repos, use-cases, bloc events, ... <br/>
-- analyze and fix with # flutter analyze <br/>
-- add GitHub actions for testing, formatting, and analyzing
-- show more detailed and localized messages of API failures (when no network or a bad server response, etc.) <br/>
+----------------------
+Original(deprecated) version is available at [old/max_clean_arch](https://github.com/maxeema/max_clean_arch/tree/master/old/max_clean_arch)
 
 ----------------------
 
